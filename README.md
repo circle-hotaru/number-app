@@ -1,5 +1,7 @@
 # number-app
 
+(How to use simple global store and axios in Vue project)[http://mightyherox.me/How-to-use-simple-global-store-and-axios-in-Vue-project/]
+
 ## Project setup
 ```
 npm install
